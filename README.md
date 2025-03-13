@@ -38,10 +38,7 @@ An interactive web application that predicts the age of abalones using Random Fo
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React + TypeScript
-- **Styling**: Tailwind CSS
-- **Icons**: Lucide React
-- **Build Tool**: Vite
+
 - **Machine Learning**: Python (Random Forest Regressor)
 - **Data Processing**: pandas, numpy
 - **Visualization**: seaborn, matplotlib
