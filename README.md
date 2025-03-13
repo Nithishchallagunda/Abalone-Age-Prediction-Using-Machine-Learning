@@ -80,11 +80,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📬 Contact
 
-Project Link: [https://github.com/yourusername/abalone-age-prediction](https://github.com/yourusername/abalone-age-prediction)
+Project Link: [https://github.com/Nithishchallagunda/abalone-age-prediction](https://github.com/Nithishchallagunda/abalone-age-prediction)
 
 ## 🙏 Acknowledgments
 
 - [Abalone Dataset](https://archive.ics.uci.edu/ml/datasets/abalone) from UCI Machine Learning Repository
 - [scikit-learn](https://scikit-learn.org/) for the Random Forest implementation
-- [React](https://reactjs.org/) for the frontend framework
-- [Tailwind CSS](https://tailwindcss.com/) for styling
