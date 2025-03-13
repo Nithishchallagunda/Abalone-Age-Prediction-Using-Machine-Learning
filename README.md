@@ -80,7 +80,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📬 Contact
 
-Project Link: [https://github.com/Nithishchallagunda/abalone-age-prediction](https://github.com/Nithishchallagunda/abalone-age-prediction)
+Project Link: [[https://github.com/Nithishchallagunda/abalone-age-prediction](https://github.com/Nithishchallagunda/Abalone-Age-Prediction-Using-Machine-Learning/tree/main)]
 
 ## 🙏 Acknowledgments
 
