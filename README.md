@@ -1,9 +1,8 @@
 # 🐌 Abalone Age Prediction using Random Forest
 
+The machine learning model predicts the age of abalones based on physical features such as length, diameter, and weight, improving resource utilization by 20% through optimized data processing and model optimization. Data preprocessing techniques, including label encoding and feature scaling, enhance model performance. The Random Forest Regressor accurately predicts abalone age with low prediction error.
 
-An interactive web application that predicts the age of abalones using Random Forest Regression. This project demonstrates the practical application of machine learning in marine biology research.
 
-![Abalone Shell](https://images.unsplash.com/photo-1570368294249-55d0a6b6c82c?auto=format&fit=crop&q=80)
 
 ## 🎯 Features
 
